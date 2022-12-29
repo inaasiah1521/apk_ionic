@@ -1,0 +1,7 @@
+{
+  "name": "pendaftaran",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
